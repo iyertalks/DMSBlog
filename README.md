@@ -1,4 +1,4 @@
-# Project Title
+# DMS Blog
 
 This the companion scripts and Cloudformation template for the Blog to move data from S3 to a PostgreSQL database.
 
